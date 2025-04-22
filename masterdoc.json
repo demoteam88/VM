@@ -1,0 +1,12 @@
+[
+	{
+		"Name": "VM Deployment",
+		"Language": "English",
+		"Files": [
+			{
+				"RawFilePath": "https://raw.githubusercontent.com/demoteam88/VM/refs/heads/main/ex1.md",
+				"Order": 1
+			}
+		]
+	}
+]
